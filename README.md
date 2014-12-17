@@ -1,5 +1,5 @@
-PyBossa photo masking application for the Burley Hoard, Hampshire
-=================================================================
+PyBossa photo masking application for the Southall Hoard
+========================================================
 
 This application has three files:
 
